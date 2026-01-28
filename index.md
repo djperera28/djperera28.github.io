@@ -25,3 +25,18 @@ For Lab 10 my partner and I had fun discovering if specific numbers are prime nu
 it was possible for large number to be prime numbers like for example, (3,137) is a prime number or not. This lab was
 pretty tough with all the numbers and math that went into it but overall was a good lab learning about the square root'
 integer number in code.
+
+## CPSC 121
+* Food Tracker
+As a final project we made a food tracker to track the amount of food waste in my household.
+
+## SIDE PROJECTS
+
+* Popsmon (Terminal Based RPG Game)
+https://github.com/djperera28/Legend_of_Popselion
+
+* Refresher Course
+https://github.com/csuf-cpp-refresher-fa2026/project-djperera28
+We delved into object oriented programming, and made app trackers that utilize maps, and classes, to track the amount of time and usage on a particular app.
+As a side final project for this I made a text based rpg game, where you encounter random enemys and defeat them to level up and gain more stats.
+
