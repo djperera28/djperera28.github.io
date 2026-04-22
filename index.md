@@ -14,10 +14,10 @@ Lab 4 had us mess around with unit conversions like teaspoons, ounces, and cups.
 
 * Lab 05
 
-Lab 5 was about solving the area of a rectangle and converting decimal feet to feet & inches. I like this lab a lot because we used a better method to ask for user input and output rather than using cout, and cin. Another thing was the conversion methods, it was a lot but seeing how you use C++ and math to build something that is basically a calculator is really cool to see.
+Lab 5 was about solving the area of a rectangle and converting decimal feet to feet & inches. I like this lab a lot because we used a better method to ask for user input and output rather than using cout, and cin. Another thing was the conversion methods, it was a lot but seeing how you use C++ and math to build something that is basically a calculator is really cool to see. Also this was great practice for calling functions because for some reason that was really hard to me.
 
 * Lab 06
 
-Lab 6 was so fun to implement. Trying to figure out the score of Blackjack and all the little rules that go into the game like making an Ace card 1 or 11, and just making sure we had the correct values for all the "cards". This is probably my favorite lab of the semester.
+Lab 6 was so fun to implement. Trying to figure out the score of Blackjack and all the little rules that go into the game like making an Ace card 1 or 11, and just making sure we had the correct values for all the "cards". This is probably my favorite lab of the semester. It also utilized the command line and specific line arguments. 
 
 
