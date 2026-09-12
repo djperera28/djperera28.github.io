@@ -1,23 +1,75 @@
-# Hello World 
+# David Perera
 
-This is my home page! My name is David Perera and I am a student at [Cal State Fullerton](https://www.fullerton.edu/) and my major is computer science.
+## Computer Science Student | Cybersecurity | Software Development
 
-## Computer Science Projects
+Hi! I'm David Perera, a Computer Science student at California State University, Fullerton.
 
-My GitHub page is https://github.com/djperera28.
+I'm interested in cybersecurity, computer systems, networking, and software development. I enjoy learning how computers work at both the software and system level and building projects that challenge me to solve problems in new ways.
 
-## CPSC 120
+View my Github https://github.com/djperera28.
 
-* Lab 04
+## Featured Projects
 
-Lab 4 had us mess around with unit conversions like teaspoons, ounces, and cups. But I really liked how this was actually something you could use in everyday life. The code was so fun to implement. Tying in both computer knowledge and math.
+## 🎮 Legend of Popselion
+C++ | Object-Oriented Programming | Game Development
 
-* Lab 05
+A terminal-based RPG inspired by monster-battling games. The project features turn-based battles, elemental types, random encounters, party management, and a modular C++ architecture.
 
-Lab 5 was about solving the area of a rectangle and converting decimal feet to feet & inches. I like this lab a lot because we used a better method to ask for user input and output rather than using cout, and cin. Another thing was the conversion methods, it was a lot but seeing how you use C++ and math to build something that is basically a calculator is really cool to see. Also this was great practice for calling functions because for some reason that was really hard to me.
+Through this project, I practiced:
 
-* Lab 06
+- Object-oriented programming
+- Classes and header files
+- Modular program design
+- Game logic and battle systems
+- Debugging and problem solving
+- Managing a larger C++ project
 
-Lab 6 was so fun to implement. Trying to figure out the score of Blackjack and all the little rules that go into the game like making an Ace card 1 or 11, and just making sure we had the correct values for all the "cards". This is probably my favorite lab of the semester. It also utilized the command line and specific line arguments. 
+## ⚙️ Vehicle Speed — x86-64 Assembly
+x86-64 Assembly | C++ | Linux | NASM | Bash
 
+A program that collects route distance and speed information, calculates total driving time and average speed, and communicates between an x86-64 Assembly module and a C++ driver.
 
+Through this project, I practiced:
+
+- x86-64 Assembly
+- C++ and Assembly integration
+- Linux development
+- NASM
+- Bash build scripts
+- Memory, registers, and low-level programming
+- Debugging across multiple source files
+
+## 🐍 Python Programming
+
+Python | Programming Fundamentals | Problem Solving
+
+- A collection of Python programs and coursework covering programming concepts, data structures, lists, variables, functions, and problem solving currently in progress.
+
+## Technical Skills
+
+- Programming: C++, Python, SQL, x86-64 Assembly
+- Operating Systems: Linux, Windows
+- Cybersecurity: Cybersecurity Fundamentals, Network Security, Security Risk Management
+- Systems & Tools: Git, GitHub, Bash, NASM, g++
+- Databases: SQL, MySQL
+- Currently Learning: Networking, cybersecurity, system administration, and low-level computer architecture
+
+## About Me
+
+I'm currently developing my skills in computer science and cybersecurity through coursework, personal projects, and hands-on practice.
+I'm especially interested in learning more about:
+
+* Cybersecurity and network security
+* Linux and system administration
+* Computer networking
+* Vulnerability management
+* Software and hardware troubleshooting
+* Low-level systems programming
+
+My goal is to continue building projects that strengthen my technical skills while gaining real-world experience in cybersecurity and technology.
+
+## Connect With Me
+GitHub: github.com/djperera28
+
+School: California State University, Fullerton
+Major: Computer Science
